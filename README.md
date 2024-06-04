@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xplorer-abhi" alt="xplorer-abhi" /></a> </p>
 
-
-
 - 📫 How to reach me **abhijeet7209.anand@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ifo1gCtZCECcj5wX83M_R31F2jHSuRUi/view?usp=drivesdk](https://drive.google.com/file/d/1Ifo1gCtZCECcj5wX83M_R31F2jHSuRUi/view?usp=drivesdk)
